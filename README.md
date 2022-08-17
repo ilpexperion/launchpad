@@ -78,10 +78,22 @@ https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum
     
 <h2>Introduction to Object Oriented Analysis & Design</h2>
 
+<h2>Basics of HTML</h2>
+
+<h2>RDBMS Basics</h2>
   
+<h2>Exercise: Setup a Ububtu Linux in your Laptop/PC</h2>
 
-<h1> Get your hands dirty </h1>
-Here you will find a set of exercises to get started. You will be setting up an environment in your laptop/PC 
+<h2>Learn Linux Shell commands</h2>
 
-Exercise 1
-Step 1 : Setp Linux Ubuntu distribution in your PC. 
+<h2>Exercise: Install and configure a wordpress based website in your Linux box</h2>
+
+<h2>Exercise: Create a github account, create a public repository/<h2>
+  
+<h2>Exercise: Download and Install git client your Linux environment | Learn git commands/<h2>
+  
+  
+<h2>/<h2>
+<h2>/<h2>
+<h2>/<h2>
+        
