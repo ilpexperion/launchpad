@@ -34,6 +34,19 @@ https://www.youtube.com/watch?v=kmqOI-7Mtkg
 Reading resources. You will find some good references here to read. Read as much as you can... <br>
 http://www.softwareqatest.com/index.html
 
+<h2>Introduction to Agile</h2>
+
+<b>Introduction to Agile Video</b> ( 72 mins ) <br>
+https://www.agilealliance.org/agile101/agile-basics/introduction-to-agile/
+
+<b>Recommended Agile articles</b><br> 
+Agile 101 https://www.agilealliance.org/agile101/ <br>
+Agile Manifesto https://www.agilealliance.org/agile101/the-agile-manifesto/ <br>
+12 Principles https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/<br>
+
+
+
+
 <h1> Get your hands dirty </h1>
 Here you will find a set of exercises to get started. You will be setting up an environment in your laptop/PC 
 
