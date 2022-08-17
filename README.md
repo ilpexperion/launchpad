@@ -31,6 +31,8 @@ https://www.youtube.com/watch?v=QhNU3VyWNZ4
 Integration Testing ( 15 min ) <br>
 https://www.youtube.com/watch?v=kmqOI-7Mtkg
 
+Reading resources. You will find some good references here to read. Read as much as you can... <br>
+http://www.softwareqatest.com/index.html
 
 <h1> Get your hands dirty </h1>
 Here you will find a set of exercises to get started. You will be setting up an environment in your laptop/PC 
