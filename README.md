@@ -51,6 +51,14 @@ https://www.agilealliance.org/agile101/agile-basics/introduction-to-agile/
 https://www.agilealliance.org/agile101/agile-basics/agile-development-practices/
   
 
+<h2>SCRUM Basics</h2>
+  <b>Scrum Methodology | Agile Scrum Framework ( 34 min )</b><br>
+  https://www.youtube.com/watch?v=8dGdIcyDk1w
+  
+  
+<h2>Introduction to Object Oriented Analysis & Design</h2>
+
+  
 
 <h1> Get your hands dirty </h1>
 Here you will find a set of exercises to get started. You will be setting up an environment in your laptop/PC 
