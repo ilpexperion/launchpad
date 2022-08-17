@@ -36,15 +36,20 @@ http://www.softwareqatest.com/index.html
 
 <h2>Introduction to Agile</h2>
 
-<b>Introduction to Agile Video</b> ( 72 mins ) <br>
-https://www.agilealliance.org/agile101/agile-basics/introduction-to-agile/
+<b>What is Agile? | Agile Methodology | Agile Frameworks - Scrum, Kanban, Lean, XP, Crystal ( 35 min )</b><br>
+https://www.youtube.com/watch?v=WjwEh15M5Rw
 
 <b>Recommended Agile articles</b><br> 
 Agile 101 https://www.agilealliance.org/agile101/ <br>
 Agile Manifesto https://www.agilealliance.org/agile101/the-agile-manifesto/ <br>
 12 Principles https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/<br>
 
+<b>Introduction to Agile Video</b> ( 72 mins ) <br>
+https://www.agilealliance.org/agile101/agile-basics/introduction-to-agile/
 
+<b>Agile Practcies Explained<B> ( 76 mins ) <br>
+https://www.agilealliance.org/agile101/agile-basics/agile-development-practices/
+  
 
 
 <h1> Get your hands dirty </h1>
