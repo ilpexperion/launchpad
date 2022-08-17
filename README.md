@@ -47,15 +47,32 @@ Agile Manifesto https://www.agilealliance.org/agile101/the-agile-manifesto/ <br>
 <b>Introduction to Agile Video</b> ( 72 mins ) <br>
 https://www.agilealliance.org/agile101/agile-basics/introduction-to-agile/
 
-<b>Agile Practcies Explained<B> ( 76 mins ) <br>
+<b>Agile Practcies Explained</b> ( 76 mins ) <br>
 https://www.agilealliance.org/agile101/agile-basics/agile-development-practices/
   
 
 <h2>SCRUM Basics</h2>
-  <b>Scrum Methodology | Agile Scrum Framework ( 34 min )</b><br>
-  https://www.youtube.com/watch?v=8dGdIcyDk1w
+
+<b>Scrum Methodology | Agile Scrum Framework ( 34 min )</b><br>
+https://www.youtube.com/watch?v=8dGdIcyDk1w
   
+<b>Getting Agile with SCRUM ( 56 min )</b><br>
+https://www.youtube.com/watch?v=0tC_CxeIdQc&t=1s
   
+<b><u>Reading: Understand SCRUM Meetings</u></b>
+
+Sprint Planning Meeting 
+https://www.mountaingoatsoftware.com/agile/scrum/meetings/sprint-planning-meeting
+    
+Sprint Retrospective
+https://www.mountaingoatsoftware.com/agile/scrum/meetings/sprint-retrospective
+    
+Sprint Review 
+https://www.mountaingoatsoftware.com/agile/scrum/meetings/sprint-review-meeting
+    
+Daily Scrum Meeting 
+https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum
+    
 <h2>Introduction to Object Oriented Analysis & Design</h2>
 
   
