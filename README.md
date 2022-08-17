@@ -4,31 +4,31 @@ Welcome to Launchpad. This is a curated list of learnig resources which will hel
 
 <h2>Software Development Lifecycles & development Process</h2>
 
-Video: Software Development Life Cycle | SDLC Phases explained in detail with examples ( 35 min )<br>
+Software Development Life Cycle | SDLC Phases explained in detail with examples ( 35 min )<br>
 https://www.youtube.com/watch?v=CjKzkj1xUJk
 
-<u>Video<u>: Waterfall; swiss cheese model; lessons learned in software; V model; design vs. code; agile methods ( 40 min ) <br>
+Waterfall; swiss cheese model; lessons learned in software; V model; design vs. code; agile methods ( 40 min ) <br>
 https://www.youtube.com/watch?v=Z-THUjekmIc
 
-Video: Making code easy to read; good code hygiene; avoiding premature optimization; coding style ( 15 min ) <br>
+Making code easy to read; good code hygiene; avoiding premature optimization; coding style ( 15 min ) <br>
 https://www.youtube.com/watch?v=42YXQklP2tg
 
-Video: Requirements ( 25 min ) <br>
+Requirements ( 25 min ) <br>
 https://www.youtube.com/watch?v=P9P1iJBUDCI
 
-Video: High Level Design (HLD) ( 15 min ) <br>
+High Level Design (HLD) ( 15 min ) <br>
 https://www.youtube.com/watch?v=r6TEO6_XsiM
 
 
 <h2>Introduction to Software Testing</h2>
 
-Video: Testing Overview ( 20 min ) <br>
+Testing Overview ( 20 min ) <br>
 https://www.youtube.com/watch?v=sjdXrkxt7Ag
 
-Video: Unit Testing ( 18 min ) <br>
+Unit Testing ( 18 min ) <br>
 https://www.youtube.com/watch?v=QhNU3VyWNZ4
 
-Video: Integration Testing ( 15 min ) <br>
+Integration Testing ( 15 min ) <br>
 https://www.youtube.com/watch?v=kmqOI-7Mtkg
 
 Reading resources. You will find some good references here to read. Read as much as you can... <br>
@@ -36,7 +36,7 @@ http://www.softwareqatest.com/index.html
 
 <h2>Introduction to Agile</h2>
 
-<b>Video: What is Agile? | Agile Methodology | Agile Frameworks - Scrum, Kanban, Lean, XP, Crystal ( 35 min )</b><br>
+<b>What is Agile? | Agile Methodology | Agile Frameworks - Scrum, Kanban, Lean, XP, Crystal ( 35 min )</b><br>
 https://www.youtube.com/watch?v=WjwEh15M5Rw
 
 <b>Recommended Agile articles</b><br> 
@@ -44,15 +44,15 @@ Agile 101 https://www.agilealliance.org/agile101/ <br>
 Agile Manifesto https://www.agilealliance.org/agile101/the-agile-manifesto/ <br>
 12 Principles https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/<br>
 
-<b>Video: Introduction to Agile Video</b> ( 72 mins ) <br>
+<b>Introduction to Agile Video</b> ( 72 mins ) <br>
 https://www.agilealliance.org/agile101/agile-basics/introduction-to-agile/
 
-<b>Video: Agile Practcies Explained<B> ( 76 mins ) <br>
+<b>Agile Practcies Explained<B> ( 76 mins ) <br>
 https://www.agilealliance.org/agile101/agile-basics/agile-development-practices/
   
 
 <h2>SCRUM Basics</h2>
-  <b>Video: Scrum Methodology | Agile Scrum Framework ( 34 min )</b><br>
+  <b>Scrum Methodology | Agile Scrum Framework ( 34 min )</b><br>
   https://www.youtube.com/watch?v=8dGdIcyDk1w
   
   
