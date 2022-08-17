@@ -1,6 +1,9 @@
-# <h1> Experion ILP launchpad </h1>
+# <h1> Experion ILP Launchpad </h1>
 
 Welcome to Launchpad. This is a curated list of learnig resources which will help you to get started. The topics are beginner level and you won't have much difficulty in geting yourself started.
+
+If you have any questions or clarifications, feel free to contact email-id@experionglobal.com
+
 
 <h2>Software Development Lifecycles & development Process</h2>
 
@@ -47,7 +50,7 @@ Agile Manifesto https://www.agilealliance.org/agile101/the-agile-manifesto/ <br>
 <b>Introduction to Agile Video</b> ( 72 mins ) <br>
 https://www.agilealliance.org/agile101/agile-basics/introduction-to-agile/
 
-<b>Agile Practcies Explained</b> ( 76 mins ) <br>
+<b>Agile Practices Explained</b> ( 76 mins ) <br>
 https://www.agilealliance.org/agile101/agile-basics/agile-development-practices/
   
 
