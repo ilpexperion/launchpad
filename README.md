@@ -151,10 +151,10 @@ https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML
 Video: HTML Essentials<br>
 https://www.linkedin.com/learning/html-essential-training-4/the-syntax-of-html-elements?autoplay=true&resume=false&u=73653210
 
-<b>Exercise: Create your resume in HTML format | Note: Use your Ubuntu environment to do this></b>
+<b>Exercise: Create your resume in HTML format | Note: Use your Ubuntu environment to do this</b>
 
 <h2>Git basics</h2>
-Exercise: Create a github account | Learn git commands from your Ubuntu environment
+Exercise: Create a github account | Learn git commands from your Ubuntu environment<br>
 https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/<br>
 
 
