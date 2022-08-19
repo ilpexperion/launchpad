@@ -138,7 +138,7 @@ Reading: https://datatechnologytoday.wordpress.com/2021/03/03/database-fundament
   
 Video: https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=73653210
   
-SQL vs NoSQL  
+<b>SQL vs NoSQL</b>  
 https://www.geeksforgeeks.org/difference-between-sql-and-nosql/<br>
 https://www.geeksforgeeks.org/sql-vs-nosql-which-one-is-better-to-use/?ref=lbp
 
@@ -150,7 +150,7 @@ https://www.w3schools.com/sql/default.asp
 Step 1: Download and Install VirtualBox<br>
 https://www.virtualbox.org/
   
-Step 2: Download Ubuntu and install inside the Virtualbox
+Step 2: Download Ubuntu and install inside the Virtualbox<br>
 https://ubuntu.com/download/desktop  
 
 <h2>Exercise: Learn Linux Shell commands</h2>
