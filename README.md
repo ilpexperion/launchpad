@@ -97,6 +97,18 @@ Reading: UML Tutorial https://www.tutorialspoint.com/uml/index.htm
 Video: UML Diagrams ( 1hr 41min ) https://www.youtube.com/watch?v=WnMQ8HlmeXc
 Video: Modeling with UML ( 1hr 41min ) https://www.linkedin.com/learning/software-design-modeling-with-uml/a-picture-is-worth-a-thousand-words?autoplay=true&u=73653210
 
+<h2>Database foundations</h2>
+What is a database ? <br>
+Reading: https://datatechnologytoday.wordpress.com/2021/03/03/database-fundamentals/
+  
+Video: https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=73653210
+  
+<b>SQL vs NoSQL</b>  
+https://www.geeksforgeeks.org/difference-between-sql-and-nosql/<br>
+https://www.geeksforgeeks.org/sql-vs-nosql-which-one-is-better-to-use/?ref=lbp
+
+Exercise: Familarise yourself with basic SQL Commands. Try differnt SQL commands with the examples given in this site and you can try SQL commands and see the results<br>
+https://www.w3schools.com/sql/default.asp
 
 <h2>How Internet works</h2>
 
@@ -121,30 +133,6 @@ https://medium.com/@sadatnazrul/basics-of-ip-addresses-in-computer-networking-f1
 Video: Understand IP Addressing<br>
 https://www.linkedin.com/learning/learning-ip-addressing-2/ip-addressing-for-internet-communications?autoplay=true&resume=false&u=73653210
 
-
-<h2>Basics of HTML</h2>
-
-Getting started with HTML
-https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
-
-Video: HTML Essentials https://www.linkedin.com/learning/html-essential-training-4/the-syntax-of-html-elements?autoplay=true&resume=false&u=73653210
-
-<b>Exercise: Create your resume in HTML format></b>
-
-
-<h2>Database foundations</h2>
-What is a database ? <br>
-Reading: https://datatechnologytoday.wordpress.com/2021/03/03/database-fundamentals/
-  
-Video: https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=73653210
-  
-<b>SQL vs NoSQL</b>  
-https://www.geeksforgeeks.org/difference-between-sql-and-nosql/<br>
-https://www.geeksforgeeks.org/sql-vs-nosql-which-one-is-better-to-use/?ref=lbp
-
-Exercise: Familarise yourself with basic SQL Commands. Try differnt SQL commands with the examples given in this site and you can try SQL commands and see the results<br>
-https://www.w3schools.com/sql/default.asp
-  
   
 <h2>Exercise: Setup a Ubuntu Linux in your Laptop/PC</h2>
 Step 1: Download and Install VirtualBox<br>
@@ -157,7 +145,16 @@ https://ubuntu.com/download/desktop
 https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
 
 
-<h2>Exercise: Create a github account | Learn git commands from your Ubuntu environment/</h2>
+<h2>HTML Basics</h2>
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
+
+Video: HTML Essentials<br>
+https://www.linkedin.com/learning/html-essential-training-4/the-syntax-of-html-elements?autoplay=true&resume=false&u=73653210
+
+<b>Exercise: Create your resume in HTML format | Note: Use your Ubuntu environment to do this></b>
+
+<h2>Git basics</h2>
+Exercise: Create a github account | Learn git commands from your Ubuntu environment
 https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/<br>
 
 
