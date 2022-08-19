@@ -4,7 +4,6 @@ Welcome to Launchpad. This is a curated list of learnig resources which will hel
 
 If you have any questions or clarifications, feel free to contact email-id@experionglobal.com
 
-
 <h2>Software Development Lifecycles & development Process</h2>
 
 Software Development Life Cycle | SDLC Phases explained in detail with examples ( 35 min )<br>
@@ -76,16 +75,42 @@ https://www.mountaingoatsoftware.com/agile/scrum/meetings/sprint-review-meeting
 Daily Scrum Meeting 
 https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum
     
-<h2>Introduction to OOAD/OOP</h2>
+<h2>Introduction to OOAD/OOP</h2><br>
 Reading: https://www.geeksforgeeks.org/object-oriented-analysis-and-design/?ref=rp
+
 Reading: https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260
 
+Video: Programming Foundations: Object-Oriented Design ( 160 min ) 
+https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/learn-object-oriented-design-principles?autoplay=true&u=73653210
+
 Reading: Introduction to UML https://developer.ibm.com/articles/an-introduction-to-uml/
+
 Reading: UML Tutorial https://www.tutorialspoint.com/uml/index.htm
 
 Video: UML Diagrams ( 1hr 41min ) https://www.youtube.com/watch?v=WnMQ8HlmeXc
+Video: Modeling with UML ( 1hr 41min ) https://www.linkedin.com/learning/software-design-modeling-with-uml/a-picture-is-worth-a-thousand-words?autoplay=true&u=73653210
+
+
+<h2>How Internet works</h2>
+
+Reading: https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
+
+Reading: https://www.hp.com/us-en/shop/tech-takes/how-does-the-internet-work
+
+Reading: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
+
+Video: Networking Basics 
+https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-4-addresses?autoplay=true&resume=false&u=73653210
 
 <h2>Basics of HTML</h2>
+
+Getting started with HTML
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
+
+Video: HTML Essentials https://www.linkedin.com/learning/html-essential-training-4/the-syntax-of-html-elements?autoplay=true&resume=false&u=73653210
+
+<b>Exercise: Create your resume in HTML format>/b>
+
 
 <h2>RDBMS Basics</h2>
   
