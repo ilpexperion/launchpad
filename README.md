@@ -76,7 +76,14 @@ https://www.mountaingoatsoftware.com/agile/scrum/meetings/sprint-review-meeting
 Daily Scrum Meeting 
 https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum
     
-<h2>Introduction to Object Oriented Analysis & Design</h2>
+<h2>Introduction to OOAD/OOP</h2>
+Reading: https://www.geeksforgeeks.org/object-oriented-analysis-and-design/?ref=rp
+Reading: https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260
+
+Reading: Introduction to UML https://developer.ibm.com/articles/an-introduction-to-uml/
+Reading: UML Tutorial https://www.tutorialspoint.com/uml/index.htm
+
+Video: UML Diagrams ( 1hr 41min ) https://www.youtube.com/watch?v=WnMQ8HlmeXc
 
 <h2>Basics of HTML</h2>
 
@@ -85,6 +92,8 @@ https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum
 <h2>Exercise: Setup a Ububtu Linux in your Laptop/PC</h2>
 
 <h2>Exercise: Learn Linux Shell commands</h2>
+https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
+
 
 <h2>Exercise: Install and configure a wordpress based website in your Linux box</h2>
 
