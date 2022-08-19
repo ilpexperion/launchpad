@@ -122,7 +122,7 @@ https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML
 
 Video: HTML Essentials https://www.linkedin.com/learning/html-essential-training-4/the-syntax-of-html-elements?autoplay=true&resume=false&u=73653210
 
-<b>Exercise: Create your resume in HTML format>/b>
+<b>Exercise: Create your resume in HTML format></b>
 
 
 <h2>Database foundations</h2>
@@ -150,14 +150,6 @@ https://ubuntu.com/download/desktop
 https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
 
 
-<h2>Exercise: Install and configure a wordpress based website in your Linux box</h2>
-
-<h2>Exercise: Create a github account, create a public repository/<h2>
+<h2>Exercise: Create a github account | Learn git commands from your Ubuntu environment/<h2>
+https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
   
-<h2>Exercise: Download and Install git client your Linux environment | Learn git commands/<h2>
-  
-  
-<h2></h2>
-<h2></h2>
-<h2></h2>
-        
