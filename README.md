@@ -102,6 +102,19 @@ Reading: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_doe
 Video: Networking Basics 
 https://www.linkedin.com/learning/networking-foundations-networking-basics/ip-version-4-addresses?autoplay=true&resume=false&u=73653210
 
+<b>Exercise: Find the following network related details of your computer</b>
+- IP Address
+- MAC Address
+- DHCP Server address
+- DNS Server address
+
+Reading: Basics of IP Addresses in computer networking<br>
+https://medium.com/@sadatnazrul/basics-of-ip-addresses-in-computer-networking-f1a4661ea85c
+
+Video: Understand IP Addressing<br>
+https://www.linkedin.com/learning/learning-ip-addressing-2/ip-addressing-for-internet-communications?autoplay=true&resume=false&u=73653210
+
+
 <h2>Basics of HTML</h2>
 
 Getting started with HTML
@@ -112,9 +125,26 @@ Video: HTML Essentials https://www.linkedin.com/learning/html-essential-training
 <b>Exercise: Create your resume in HTML format>/b>
 
 
-<h2>RDBMS Basics</h2>
+<h2>Database foundations</h2>
+What is a database ? <br>
+Reading: https://datatechnologytoday.wordpress.com/2021/03/03/database-fundamentals/
   
-<h2>Exercise: Setup a Ububtu Linux in your Laptop/PC</h2>
+Video: https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database?u=73653210
+  
+SQL vs NoSQL  
+https://www.geeksforgeeks.org/difference-between-sql-and-nosql/<br>
+https://www.geeksforgeeks.org/sql-vs-nosql-which-one-is-better-to-use/?ref=lbp
+
+Exercise: Familarise yourself with basic SQL Commands. Try differnt SQL commands with the examples given in this site and you can try SQL commands and see the results<br>
+https://www.w3schools.com/sql/default.asp
+  
+  
+<h2>Exercise: Setup a Ubuntu Linux in your Laptop/PC</h2>
+Step 1: Download and Install VirtualBox<br>
+https://www.virtualbox.org/
+  
+Step 2: Download Ubuntu and install inside the Virtualbox
+https://ubuntu.com/download/desktop  
 
 <h2>Exercise: Learn Linux Shell commands</h2>
 https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
