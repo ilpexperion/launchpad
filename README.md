@@ -4,6 +4,13 @@ Welcome to Launchpad. This is a curated list of learnig resources which will hel
 
 If you have any questions or clarifications, feel free to contact email-id@experionglobal.com
 
+<h2>Developer mindset</h2>
+<b>How developers think</b><br>
+https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/
+
+<b>The mindset of the software developer</b><br>
+https://medium.com/@crowquine/the-mindset-of-the-software-developer-2b8f64ee96e5
+
 <h2>Software Development Lifecycles & development Process</h2>
 
 Software Development Life Cycle | SDLC Phases explained in detail with examples ( 35 min )<br>
@@ -150,6 +157,8 @@ https://ubuntu.com/download/desktop
 https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
 
 
-<h2>Exercise: Create a github account | Learn git commands from your Ubuntu environment/<h2>
-https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
+<h2>Exercise: Create a github account | Learn git commands from your Ubuntu environment/</h2>
+https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/<br>
+
+
   
